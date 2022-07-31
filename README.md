@@ -6,8 +6,7 @@ I am currently learning about Natural Language Processing and it is applications
 
 Interested in contributing to open source to progress the world forward.  
 
-### Skills
----
+## Skills
 | Level | Tech |
 | ---   | --- |
 | Proficient | Python, JavaScript(Node, Express), React, HTML, CSS(Sass), MongoDB, Docker | 
