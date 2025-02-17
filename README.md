@@ -2,12 +2,12 @@
 
 🚀 **Software Engineer @ Capital One** | **Full-Stack | SaaS | Scalable Systems**  
 
-I’m a passionate **Software Engineer** specializing in **full-stack development, scalable SaaS applications, and high-performance API design**. With experience in **JavaScript (TypeScript, React, Node.js, NestJS)** and cloud technologies like **AWS & Kubernetes**, I love building robust, maintainable, and user-centric software solutions.  
+I’m a passionate **Software Engineer** specializing in **full-stack development, scalable SaaS applications, and high-performance API design**. With experience in **JavaScript (TypeScript, React, Node.js, NestJS)** and cloud technologies like **(AWS)**, I love building robust, maintainable, and user-centric software solutions.  
 
 💡 **What I Do:**  
 - **Build Scalable Web Applications** → Designing & developing performant SaaS platforms.  
 - **Optimize APIs & Microservices** → Architecting high-performance backend services.  
-- **Enhance Developer Experience** → Improving internal tools & mentoring junior devs.  
+- **Enhance Developer Experience** → Improving internal tools.  
 
 ---
 
